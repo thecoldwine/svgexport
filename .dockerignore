@@ -1,0 +1,6 @@
+.git
+test/
+.travis.yml
+appveyor.yml
+Dockerfile
+node_modules/
